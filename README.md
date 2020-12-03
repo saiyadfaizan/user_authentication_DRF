@@ -1,5 +1,6 @@
 # User-authentication using Django REST Framework. 
 It is a basic applicaion in which following operations can be performed:
+
     - user signup via email/user name : http://127.0.0.1:8000/rest-auth/registration/
     - signin/login : http://127.0.0.1:8000/rest-auth/login/
     - signout/logout : http://127.0.0.1:8000/rest-auth/logout/
