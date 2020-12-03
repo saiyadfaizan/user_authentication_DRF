@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/home/rails/django_projects/django-allauth-project/user_auth/my_env/bin/python3"
+}
